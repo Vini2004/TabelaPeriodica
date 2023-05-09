@@ -1,6 +1,7 @@
 # TabelaPeriodica
 
 Repositório referente ao trabalho proposto pelo professor Deivison onde o objetivo seria construir uma tabela periódica utilizando apenas HTML e CSS puro
+
 Foi um trabalho desafiador onde consegui por aprova minhas habilidades
 
 Agora explicando a primeira parte em que consiste apenas na declaração da tag &lt;table> onde foi colocado o titulo da tabela e a tag &lt;thead> para declarar todas as colunas
