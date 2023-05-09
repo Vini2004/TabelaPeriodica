@@ -1,0 +1,198 @@
+    #semCor{
+        background-color: white;
+        font-size: 0px;
+    } 
+    
+    table {
+        margin: auto;
+        border: 3px solid black;
+        display: table;
+        border-radius: 10px;
+    }
+
+    caption {
+        font-size: 2.5em;
+        text-align: center;
+        margin-bottom: 20px;
+        font-weight: 300;
+    }
+
+    td {
+        position: static;
+        width: 40px;
+        height: 40px;
+        text-align: center;
+        display: table-cell; 
+    }
+
+    td:hover {
+        cursor: pointer;
+        background-color: rgb(255, 255, 255); 
+        border-radius: 10px;  
+    }
+
+    td div {
+        padding: 2px; 
+      }
+
+    .element {
+        border: 2px solid black;
+        
+    }
+
+    a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .symbol {
+        font-weight: bold;
+        font-size: 1.5em;
+    }
+
+    .name {
+        font-size: 0.8em;
+    }
+
+    .atomic-number {
+        font-size: 0.6em;
+    }
+
+
+    .group-1 {
+        /*nao metais*/
+        background-color: rgb(109, 255, 109);
+    }
+
+    .group-2 {
+        /*Gases nobres*/
+        
+        background-color: rgb(139, 139, 252);
+    }
+
+    .group-3 {
+        /*Metais alcalinos*/
+        
+        background-color: rgb(255, 199, 94);
+    }
+
+    .group-4 {
+        /*Metais alcalino-terrosos*/
+        
+        background-color: yellow;
+    }
+
+    .group-5 {
+        /*Semimetais*/
+        
+        background-color: #00be66;
+    }
+
+    .group-6 {
+        /*Halogênios*/
+        
+        background-color: #ccffff;
+    }
+
+    .group-7 {
+        /*Outros metais*/
+        
+        background-color: rgb(172, 172, 172);
+    }
+
+    .group-8 {
+        /*Metais de transição*/
+        
+        background-color: tomato;
+    }
+
+    .lanthanides {
+        /*Lantanídeos*/
+       
+        background-color: #7bfaef;
+    }
+
+    .actinides {
+        /*Actinídios*/
+        
+        background-color: #e6a9f5;
+    }
+
+    .quadrado {
+        width: 20px;
+        height: 20px;
+        display: inline-block;
+        margin-right: 1px;
+    }
+
+    .NM {
+        background-color: rgb(109, 255, 109);
+    }
+    
+    .GN {
+        background-color: rgb(139, 139, 252);
+    }
+
+    .MA {
+        background-color: rgb(255, 199, 94);
+    }
+
+    .MAT {
+        background-color: yellow;
+    }
+
+    .Semi {
+        background-color: #00be66;
+    }
+
+    .Halo {
+        background-color: #ccffff;
+    }
+
+    .OM {
+        background-color: rgb(172, 172, 172);
+    }
+
+    .MT {
+        background-color: tomato;
+    }
+
+    .Lant {
+        background-color: #7bfaef;
+    }
+
+    .Act {
+        background-color: #e6a9f5;
+    }
+
+
+      .period-1 {
+        background-color: #ffffcc;
+    }
+
+    .period-2 {
+        background-color: #ccffcc;
+    }
+
+    .period-3 {
+        background-color: #ccccff;
+    }
+
+    .period-4 {
+        background-color: #ffccff;
+    }
+
+    .period-5 {
+        background-color: #ccffff;
+    }
+
+    .period-6 {
+        background-color: #cccccc;
+    }
+
+    .period-7  {
+        background-color: #ffcccc;
+        
+    }
+
+  
